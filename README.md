@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I've been learning how to code for a year now. I started with HTML and CSS but developed a strong intrest in Python and AWS S3.
+I've been learning how to code for a year now. I started with HTML and CSS but developed a strong interest in Python and AWS S3.
 
 * 🌍  I'm based in North Carolina
 * ✉️  You can contact me at [cbmosley97@gmail.com](mailto:cbmosley97@gmail.com)
-* 🧠  I'm learning SQL and R
+* 🧠  I'm learning PyTest
 * 🤝  I'm open to collaborating on open-source projects
 
 ### Skills
