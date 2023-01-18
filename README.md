@@ -8,7 +8,7 @@ I've been learning how to code for a year now. I started with HTML and CSS but d
 
 * 🌍  I'm based in North Carolina
 * ✉️  You can contact me at [cbmosley97@gmail.com](mailto:cbmosley97@gmail.com)
-* 🧠  I'm learning PyTest
+* 🧠  I am refreshing on my JavaScript and React Skills!
 * 🤝  I'm open to collaborating on open-source projects
 
 ### Skills
